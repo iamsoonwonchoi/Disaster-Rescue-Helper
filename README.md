@@ -1,4 +1,4 @@
-<h1>Disaster Rescue Helper</h1>
+<h2><b>Disaster Rescue Helper</b></h1>
 <ul>
-  <li>Description</li>
+  <li><b>Description</b></li>
 </ul>
