@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">재난구조 헬퍼</string>
+    <string name="textview_about" translatable="false"></string>
+    <string name="btn_co2" translatable="false"></string>
+    <string name="title" translatable="false">서버 IP입력</string>
+    <string name="btn_switch" translatable="false">실시간 조회</string>
+    <string name="btn_green_off">탐색 시작</string>
+    <string name="btn_green_on">탐색 종료</string>
+    <string name="btn_blue_off">MAP ON</string>
+    <string name="btn_blue_on">MAP OFF</string>
+    <string name="mobius_address">192.168.0.135</string>
+    <string name="addr_unset">Disconnect</string>
+    <string name="addr_set">Connect</string>
+    <string name="title_activity_start">StartActivity</string>
+</resources>

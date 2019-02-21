@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Disaster Rescue Helper</title>
+  </head>
+  <body>
+    <h1>Disaster Rescue Helper</h1>
+    <h2>You can check the disaster situation.</h2>
+    <script type = 'text/javascript'>
+      var image = document.createElement('img') ;
+      image.src = '/img'+'?time='+new Date().getTime() ;
+      setInterval(function () {
+          changeImage() ;
+        }, 400) ;
+      function changeImage() {
+          image.src = '/img'+'?time='+new Date().getTime() ;
+          document.body.appendChild(image) ;
+        }
+    </script>
+    <!-- <form action = '/test' method = 'post'> -->
+      <!-- <input type = 'submit' value = 'on' name = 'led' > -->
+      <!-- <input type = 'submit' value = 'off' name = 'led' > -->
+    <!-- </form> -->
+  </body>
+</html>
