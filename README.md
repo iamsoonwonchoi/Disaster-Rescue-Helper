@@ -13,4 +13,6 @@
   <li><b></b></li>
   <li><b>Developers</b></li>
   - Soonwon Choi (https://github.com/iamsoonwonchoi)
+  - Shinhyuk Park (https://github.com/snhpark)
+  - Hyejin Park
 </ul>
