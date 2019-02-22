@@ -8,7 +8,8 @@
   <li><b>Function</b></li>
   <ol>
     <li><b>Wall Following</b></li>
-    <img src="img/wall_following.png"><br><br>
+    <img src="img/wall_following.png">
+    video link : https://youtu.be/WoG5qpObs9I<br><br>
     <li><b>Map Drawing</b></li>
     <img src="img/map_drawing.jpg"><br><br>
     <li><b>Live Cam In Disaster Area</b></li>
