@@ -14,9 +14,9 @@
     <img src="img/map_drawing.jpg">
     <br>video link : https://youtu.be/As0OZFY861E<br><br>
     <li><b>Live Cam In Disaster Area</b></li>
-    <img src="img/mazecam.png"><br><br>
+    <img src="img/mazecam.png">
+    https://youtu.be/cEtv8_-h39E<br><br>
   </ol>
-  <li><b></b></li>
   <li><b>Developers</b></li>
   - Soonwon Choi (https://github.com/iamsoonwonchoi)<br>
   - Shinhyuk Park (https://github.com/snhpark)<br>
