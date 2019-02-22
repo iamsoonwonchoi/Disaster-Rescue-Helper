@@ -11,7 +11,8 @@
     <img src="img/wall_following.png">
     video link : https://youtu.be/WoG5qpObs9I<br><br>
     <li><b>Map Drawing</b></li>
-    <img src="img/map_drawing.jpg"><br><br>
+    <img src="img/map_drawing.jpg">
+    video link : https://youtu.be/As0OZFY861E<br><br>
     <li><b>Live Cam In Disaster Area</b></li>
     <img src="img/mazecam.png"><br><br>
   </ol>
