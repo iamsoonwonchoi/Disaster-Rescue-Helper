@@ -10,7 +10,9 @@
     <li><b>Wall Following</b></li>
     <img src="img/wall_following.png">
     <li><b>Map Drawing</b></li>
+    <img src="img/map_drawing.jpg">
     <li><b>Live Cam In Disaster Area</b></li>
+    <img src="img/mazecam.png">
   </ol>
   <li><b></b></li>
   <li><b>Developers</b></li>
