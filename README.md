@@ -7,10 +7,7 @@
   <li><b>Function</b></li>
   <ol>
     <li><b>Wall Following</b></li>
-    [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)<br>
-    [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)<br>
-    [![Alt text](https://img.youtube.com/vi/WoG5qpObs9I/0.jpg)](https://www.youtube.com/watch?v=WoG5qpObs9I)<br>
-    [![Alt text](https://www.youtube.com/embed/WoG5qpObs9I/0.jpg)](https://www.youtube.com/embed/WoG5qpObs9I)
+    [![](http://img.youtube.com/vi/WoG5qpObs9I/0.jpg)](http://www.youtube.com/watch?v=WoG5qpObs9I "")
     <li><b>Map Drawing</b></li>
     <li><b>Live Cam In Disaster Area</b></li>
   </ol>
